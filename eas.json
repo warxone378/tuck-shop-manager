@@ -1,0 +1,1 @@
+{"cli":{"version":">= 8.0.0"},"build":{"preview":{"android":{"buildType":"apk"}},"preview2":{"android":{"ndk":"21.4.7075529"}},"preview3":{"android":{"ndk":"21.3.6528147"}},"production":{"android":{"ndk":"21.4.7075529"}}},"submit":{"production":{"android":{"serviceAccount":"@credentials.json","track":"production"}}}}
